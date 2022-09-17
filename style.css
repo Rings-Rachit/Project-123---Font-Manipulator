@@ -31,4 +31,5 @@ canvas{
     box-shadow: 5px 5px 20px lightgreen;
     padding:3px;
     margin:2px;
+    border:2px solid black;
 }
